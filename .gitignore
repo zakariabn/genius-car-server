@@ -1,0 +1,4 @@
+node_modules
+.env
+cspell.json
+_steps
